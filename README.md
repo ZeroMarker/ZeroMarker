@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Skill  I want to learn in the future
 - Type by one hand
-- 
+- Qemu Embedded System
