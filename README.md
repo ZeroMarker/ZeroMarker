@@ -8,6 +8,4 @@
 ZeroMarker/ZeroMarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Skill  I want to learn in the future
-- Type by one hand
-- Qemu Embedded System
+
